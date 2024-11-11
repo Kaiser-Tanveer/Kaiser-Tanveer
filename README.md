@@ -20,26 +20,27 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
   <div style="width: 30%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h4><a href="link_to_project">Project Name</a></h4>
-    <p>A brief description of the project.</p>
-    <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, React, Node.js</p>
-    <a href="link_to_live_demo" target="_blank">Live Demo</a> | <a href="link_to_repo" target="_blank">Repository</a>
+    <h4><a href="link_to_project">Bravo-Bank</a></h4>
+    <p>An all-in-one banking platform where users can manage accounts, apply for loans, and more. Admins have full control over users and data through a dashboard. Integrated with email authentication and CRUD operations for seamless management.</p>
+    <p><strong>Technologies:</strong> React.js, TypeScript, Tailwind CSS, DaisyUI, Express.js, Firebase, MongoDB</p>
+    <a href="link_to_live_demo" target="_blank">Live Demo</a> | <a href="link_to_frontend_repo" target="_blank">Front-End Code</a> | <a href="link_to_backend_repo" target="_blank">Back-End Code</a>
   </div>
 
   <div style="width: 30%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h4><a href="link_to_project">Project Name</a></h4>
-    <p>A brief description of the project.</p>
-    <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, React Native, Firebase</p>
-    <a href="link_to_live_demo" target="_blank">Live Demo</a> | <a href="link_to_repo" target="_blank">Repository</a>
+    <h4><a href="link_to_project">LastBooks</a></h4>
+    <p>A dynamic platform for students to buy and sell second-hand books with integrated Stripe payments. Features a secure user verification system and an admin dashboard for managing transactions and seller accounts.</p>
+    <p><strong>Technologies:</strong> React.js, JWT, Tailwind CSS, Express.js, Firebase, Stripe, MongoDB</p>
+    <a href="link_to_live_demo" target="_blank">Live Demo</a> | <a href="link_to_frontend_repo" target="_blank">Front-End Code</a> | <a href="link_to_backend_repo" target="_blank">Back-End Code</a>
   </div>
 
   <div style="width: 30%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h4><a href="link_to_project">Project Name</a></h4>
-    <p>A brief description of the project.</p>
-    <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, React, Node.js, MongoDB</p>
-    <a href="link_to_live_demo" target="_blank">Live Demo</a> | <a href="link_to_repo" target="_blank">Repository</a>
+    <h4><a href="link_to_project">FoodMart</a></h4>
+    <p>An e-commerce website for selling fresh garden-grown food. Sellers can easily list products, while buyers enjoy a streamlined shopping experience. Secure sign-in options and JWT authentication ensure a smooth, safe user journey.</p>
+    <p><strong>Technologies:</strong> React.js, JWT, Tailwind CSS, Express.js, Firebase, MongoDB</p>
+    <a href="link_to_live_demo" target="_blank">Live Demo</a> | <a href="link_to_frontend_repo" target="_blank">Front-End Code</a> | <a href="link_to_backend_repo" target="_blank">Back-End Code</a>
   </div>
 </div>
+
 
 ---
 
