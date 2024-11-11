@@ -93,8 +93,8 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiser-tanveer&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%" style="margin-right: 2%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiser-tanveer&show_icons=true&locale=en" alt="GitHub Stats" width="48%" style="margin-left: 2%" />
+<div style="width: 100%; display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiser-tanveer&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%" height="100px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiser-tanveer&show_icons=true&locale=en" alt="GitHub Stats" width="48%" height="100px" />
 </div>
 
