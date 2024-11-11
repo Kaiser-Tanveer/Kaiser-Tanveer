@@ -16,6 +16,33 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+  <div style="width: 30%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h4><a href="link_to_project">Project Name</a></h4>
+    <p>A brief description of the project.</p>
+    <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, React, Node.js</p>
+    <a href="link_to_live_demo" target="_blank">Live Demo</a> | <a href="link_to_repo" target="_blank">Repository</a>
+  </div>
+
+  <div style="width: 30%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h4><a href="link_to_project">Project Name</a></h4>
+    <p>A brief description of the project.</p>
+    <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, React Native, Firebase</p>
+    <a href="link_to_live_demo" target="_blank">Live Demo</a> | <a href="link_to_repo" target="_blank">Repository</a>
+  </div>
+
+  <div style="width: 30%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <h4><a href="link_to_project">Project Name</a></h4>
+    <p>A brief description of the project.</p>
+    <p><strong>Technologies:</strong> HTML5, CSS3, JavaScript, React, Node.js, MongoDB</p>
+    <a href="link_to_live_demo" target="_blank">Live Demo</a> | <a href="link_to_repo" target="_blank">Repository</a>
+  </div>
+</div>
+
+---
+
 ### 🔧 Technologies & Tools
 
 - **Frontend**:
