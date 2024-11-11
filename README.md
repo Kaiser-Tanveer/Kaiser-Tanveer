@@ -24,7 +24,7 @@
     Node.js
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://i.ibb.co.com/NFTYfwY/pngwing-com-5.png" alt="express" width="40" height="40"/>
     Express
   </a>
 
