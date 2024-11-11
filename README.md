@@ -14,7 +14,7 @@
     JavaScript
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     React
   </a>
 
@@ -24,7 +24,7 @@
     Node.js
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://i.ibb.co.com/NFTYfwY/pngwing-com-5.png" alt="express" width="40" height="40"/>
+    <img src="https://i.ibb.co.com/NFTYfwY/pngwing-com-5.png" alt="express" width="70" height="40"/>
     Express
   </a>
 
