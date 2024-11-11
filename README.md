@@ -20,27 +20,26 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
   <div style="width: 30%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h4><a href="link_to_project">Bravo-Bank</a></h4>
+    <h4><a href="https://bravo-bank.web.app/" target="_blank">Bravo-Bank</a></h4>
     <p>An all-in-one banking platform where users can manage accounts, apply for loans, and more. Admins have full control over users and data through a dashboard. Integrated with email authentication and CRUD operations for seamless management.</p>
     <p><strong>Technologies:</strong> React.js, TypeScript, Tailwind CSS, DaisyUI, Express.js, Firebase, MongoDB</p>
-    <a href="link_to_live_demo" target="_blank">Live Demo</a> | <a href="link_to_frontend_repo" target="_blank">Front-End Code</a> | <a href="link_to_backend_repo" target="_blank">Back-End Code</a>
+    <a href="https://bravo-bank.web.app/" target="_blank">Live Demo</a> | <a href="https://github.com/Kaiser-Tanveer/Bravo-Bank" target="_blank">Front-End Code</a> | <a href="https://github.com/Kaiser-Tanveer/Barvo-Bank-Server" target="_blank">Back-End Code</a>
   </div>
 
   <div style="width: 30%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h4><a href="link_to_project">LastBooks</a></h4>
+    <h4><a href="https://last-books.web.app/" target="_blank">LastBooks</a></h4>
     <p>A dynamic platform for students to buy and sell second-hand books with integrated Stripe payments. Features a secure user verification system and an admin dashboard for managing transactions and seller accounts.</p>
     <p><strong>Technologies:</strong> React.js, JWT, Tailwind CSS, Express.js, Firebase, Stripe, MongoDB</p>
-    <a href="link_to_live_demo" target="_blank">Live Demo</a> | <a href="link_to_frontend_repo" target="_blank">Front-End Code</a> | <a href="link_to_backend_repo" target="_blank">Back-End Code</a>
+    <a href="https://last-books.web.app/" target="_blank">Live Demo</a> | <a href="https://github.com/Kaiser-Tanveer/Used-Books-Client-Complete-Project-.git" target="_blank">Front-End Code</a> | <a href="https://github.com/Kaiser-Tanveer/Last-Books-Server-Complete-Project-.git" target="_blank">Back-End Code</a>
   </div>
 
   <div style="width: 30%; padding: 10px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h4><a href="link_to_project">FoodMart</a></h4>
+    <h4><a href="https://food-mart-client.web.app/" target="_blank">FoodMart</a></h4>
     <p>An e-commerce website for selling fresh garden-grown food. Sellers can easily list products, while buyers enjoy a streamlined shopping experience. Secure sign-in options and JWT authentication ensure a smooth, safe user journey.</p>
     <p><strong>Technologies:</strong> React.js, JWT, Tailwind CSS, Express.js, Firebase, MongoDB</p>
-    <a href="link_to_live_demo" target="_blank">Live Demo</a> | <a href="link_to_frontend_repo" target="_blank">Front-End Code</a> | <a href="link_to_backend_repo" target="_blank">Back-End Code</a>
+    <a href="https://food-mart-client.web.app/" target="_blank">Live Demo</a> | <a href="https://github.com/Kaiser-Tanveer/FoodMart-Client-BackEnd-DataBaseIntegretion-.git" target="_blank">Front-End Code</a> | <a href="https://github.com/Kaiser-Tanveer/FoodMart-Server-Backend-Database-Integration-Project-.git" target="_blank">Back-End Code</a>
   </div>
 </div>
-
 
 ---
 
