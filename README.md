@@ -17,17 +17,11 @@
 ---
 
 ### 🔧 Technologies & Tools
-I’m proficient with the following technologies:
-
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org/)
-[![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)](https://expressjs.com)
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)
-[![Firebase](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-icon.svg)](https://firebase.google.com/)
-[![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)](https://www.photoshop.com/en)
+- **Frontend**: HTML5, CSS3, JavaScript, React  
+- **Backend**: Node.js, Express  
+- **Database**: MongoDB, Firebase  
+- **Design**: Photoshop, Figma  
+- **Tools**: Git, GitHub, VS Code, Firebase, Postman
 
 ---
 
