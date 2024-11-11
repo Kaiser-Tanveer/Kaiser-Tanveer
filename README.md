@@ -92,6 +92,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kaiser-tanveer&show_icons=true&locale=en&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiser-tanveer&show_icons=true&locale=en)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiser-tanveer&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiser-tanveer&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
+</div>
+
